@@ -1,15 +1,13 @@
 ---
-title: "Mark Dinn"
-image: ""
-email: "email2@example.org"
+title: Abdullah
+image: ''
+email: abdullah@abdullah.today
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
----
+- icon: ti-gitlab
+  link: https://gitlab.com/Abdullah
+- icon: ti-facebook
+  link: https://facebook.com/0x5CBC7BC7
+- icon: ti-twitter-alt
+  link: https://twitter.com/0x5CBC7BC7
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+---
